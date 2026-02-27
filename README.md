@@ -2,7 +2,7 @@
 
 A FastAPI-based web application that integrates with Google Sheets for user data management, featuring a modern **Cyber-Glass** frontend.
 
-🔗 **Google Sheet:** [View Sheet](https://docs.google.com/spreadsheets/d/1qKJ8URimPA9o-3IcWnqjAyXsNhNOeWiqZsi7L3mnhZY/edit?usp=sharing)
+
 
 ## Features
 
